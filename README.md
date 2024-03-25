@@ -38,6 +38,9 @@ The following are planned enhancements and features to be added to the NotesAngu
 - [ ] Create RESTful API endpoints for seamless integration with backend services.
 
 - Reference
-  - Tutorial 
-    - [Build a Notes Application with Angular!](https://youtube.com/playlist?list=PLIjdNHWULhPR5cr7nkTvq6kTV8rbr6BVz&si=DyU8zBtnvKC7ka0d)
+  - [Build a Notes Application with Angular!](https://youtube.com/playlist?list=PLIjdNHWULhPR5cr7nkTvq6kTV8rbr6BVz&si=DyU8zBtnvKC7ka0d)
+  - Angular Documentation: [Official Angular Docs](https://angular.io/docs)
+  - Bulma Documentation: [Bulma CSS Framework](https://bulma.io/documentation/)
+  - TypeScript Documentation: [TypeScript Docs](https://www.typescriptlang.org/docs/)
+  - RxJS Documentation: [RxJS Guide](https://rxjs.dev/guide/overview)
 
