@@ -1,31 +1,27 @@
-# NotesAngular
+# Introduction
+The Notes App is a web application that allows users to create, manage, and filter notes based on specific queries. It provides a convenient way to organize and access notes efficiently.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# Deployed URL
+The application is deployed and accessible at [NotesAngular](https://chenannchi-notes-angular.netlify.app/).
 
 # Technologies
-## Styling
+- Angular
+- RxJS
+- HTML
+- TypeScript
+- SCSS
 - [Bulma](https://bulma.io/)
+
+# Features and Functionalities
+- Create new notes with titles and content.
+- Filter notes based on search bar to display relevant notes.
+
+# Next Steps
+The following are planned enhancements and features to be added to the Notes App:
+- [ ] Responsive design for optimal viewing across devices.
+- [ ] Add category functionality to each note for better organization.
+- [ ] Implement the ability to display notes by category.
+- [ ] Introduce authentication mechanisms to secure user data.
+- [ ] Incorporate a database for persistent data storage.
+- [ ] Create RESTful API endpoints for seamless integration with backend services.
+
