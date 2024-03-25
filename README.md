@@ -1,6 +1,18 @@
 # Introduction
 The Notes App is a web application that allows users to create, manage, and filter notes based on specific queries. It provides a convenient way to organize and access notes efficiently.
 
+- Notes List
+<br>
+<img id="notes-angular" src="./src/assets/NotesAngular.png" width="700" >
+
+- Create New Note
+<br>
+<img src="./src/assets/NewNote.png" width="700" >
+
+- Edit Note
+<br>
+<img src="./src/assets/EditNote.png" width="700" >
+
 # Deployed URL
 The application is deployed and accessible at [NotesAngular](https://chenannchi-notes-angular.netlify.app/).
 
@@ -17,7 +29,7 @@ The application is deployed and accessible at [NotesAngular](https://chenannchi-
 - Filter notes based on search bar to display relevant notes.
 
 # Next Steps
-The following are planned enhancements and features to be added to the Notes App:
+The following are planned enhancements and features to be added to the NotesAngular App:
 - [ ] Responsive design for optimal viewing across devices.
 - [ ] Add category functionality to each note for better organization.
 - [ ] Implement the ability to display notes by category.
