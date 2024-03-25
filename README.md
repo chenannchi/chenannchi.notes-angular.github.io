@@ -37,3 +37,7 @@ The following are planned enhancements and features to be added to the NotesAngu
 - [ ] Incorporate a database for persistent data storage.
 - [ ] Create RESTful API endpoints for seamless integration with backend services.
 
+- Reference
+  - Tutorial 
+    - [Build a Notes Application with Angular!](https://youtube.com/playlist?list=PLIjdNHWULhPR5cr7nkTvq6kTV8rbr6BVz&si=DyU8zBtnvKC7ka0d)
+
