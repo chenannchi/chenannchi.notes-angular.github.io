@@ -1,3 +1,5 @@
+Note: The Notes App was initially based on a tutorial. However, it will be customized and expanded with additional features and modifications beyond the tutorial content.
+
 # Introduction
 The Notes App is a web application that allows users to create, manage, and filter notes based on specific queries. It provides a convenient way to organize and access notes efficiently.
 
@@ -38,7 +40,7 @@ The following are planned enhancements and features to be added to the NotesAngu
 - [ ] Create RESTful API endpoints for seamless integration with backend services.
 
 - Reference
-  - [Build a Notes Application with Angular!](https://youtube.com/playlist?list=PLIjdNHWULhPR5cr7nkTvq6kTV8rbr6BVz&si=DyU8zBtnvKC7ka0d)
+  - Tutorial: [Build a Notes Application with Angular!](https://youtube.com/playlist?list=PLIjdNHWULhPR5cr7nkTvq6kTV8rbr6BVz&si=DyU8zBtnvKC7ka0d)
   - Angular Documentation: [Official Angular Docs](https://angular.io/docs)
   - Bulma Documentation: [Bulma CSS Framework](https://bulma.io/documentation/)
   - TypeScript Documentation: [TypeScript Docs](https://www.typescriptlang.org/docs/)
